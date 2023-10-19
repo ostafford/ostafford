@@ -19,7 +19,7 @@ I'm a passionate Junior Web and App Developer who has recently completed the fol
 
 <img src="https://myreadme.vercel.app/api/embed/ostafford?panels=userstatistics,toprepositories,toplanguages" alt="reimaginedreadme" />
 
-## Stack I'm currently applying 👨🏼‍💻
+## Stack I'm currently learning 👨🏼‍💻
 
 <p align="left">
     <img height="30" src="SVG/bootstrap-5-1.svg" title="Bootstrap">
