@@ -17,12 +17,7 @@ I'm a passionate Junior Web and App Developer who has recently completed the fol
 
 ## Activity Monitor
 
-<p>
-
-![Snake animation](https://github.com/ostafford/github-readme/blob/output/github-contribution-snake.svg)
-
 <img src="https://myreadme.vercel.app/api/embed/ostafford?panels=userstatistics,toprepositories,toplanguages" alt="reimaginedreadme" />
-</p>
 
 ## Stack I'm currently applying 👨🏼‍💻
 
@@ -46,3 +41,7 @@ I'm a passionate Junior Web and App Developer who has recently completed the fol
     <img height="30" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter">
   </a>
 </p>
+
+## Now playing 🎧
+
+[![Spotify](https://novatorem-spotify-git-main-ostaffords-projects.vercel.app/api/spotify)](https://open.spotify.com/user/2x1e9q689jbcbmyevfk1xibff?si=cff468cbc1db4c4d)
