@@ -7,7 +7,7 @@ I'm a passionate Junior Web and App Developer who has recently completed the fol
 - Front-End Development (60 Hours) - [General Assembly](https://generalassemb.ly/)
 - The Git & Github Bootcamp (17 Hours) - [Colt Steele (Udemy)](https://www.udemy.com/course/git-and-github-bootcamp/)
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=200&color=ffbdbd&height=35&lines=Apple+Service+Leader+🧰;Junior+Developer+👨🏼‍💻;Muay+Thai+Coach+🥊;Cyclist+🚴)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=200&color=ab89d9&height=35&lines=Apple+Service+Leader+🧰;Junior+Developer+👨🏼‍💻;Muay+Thai+Coach+🥊;Cyclist+🚴)](https://git.io/typing-svg)
 
 - 🇦🇺 I'm based in Melbourne, Australia
 - 💼 I'm currently working at [Education Advantage](https://eduadv.com.au/) as an Apple Service Leader
