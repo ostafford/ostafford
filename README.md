@@ -34,9 +34,6 @@ I'm a passionate aspiring Full-Stack Developer, currently dedicated to mastering
  <a href="https://www.linkedin.com/in/okkystafford" target="_blank">
  <img height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn">
  </a>
- <a href="https://twitter.com/okkystafford/" target="_blank">
- <img height="30" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter">
- </a>
 </p>
 
 ## Now playing 🎧
