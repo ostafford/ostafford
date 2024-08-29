@@ -2,44 +2,41 @@
 
 # Hi, I'm Okky. Nice to meet you! <img src="https://raw.githubusercontent.com/ooanishoo/ooanishoo/main/public/wave.gif" width="30px">
 
-I'm a passionate Junior Web and App Developer who has recently completed the following courses:
+I'm a passionate aspiring Full-Stack Developer, currently dedicated to mastering front-end technologies. With 8+ years of experience in leadership and technical support, I'm now fully committed to a career in software engineering. I'm proactively learning and eager to apply my problem-solving skills and customer-centric mindset to create impactful, user-friendly software solutions.
 
-- Front-End Development (60 Hours) - [General Assembly](https://generalassemb.ly/)
-- The Git & Github Bootcamp (17 Hours) - [Colt Steele (Udemy)](https://www.udemy.com/course/git-and-github-bootcamp/)
-
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=200&color=ab89d9&height=35&lines=Apple+Service+Leader+🧰;Junior+Developer+👨🏼‍💻;Muay+Thai+Coach+🥊;Cyclist+🚴)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=200&color=ab89d9&height=35&lines=Aspiring+Full-Stack+Developer+👨🏼‍💻;Former+Apple+Service+Leader+🧰;Muay+Thai+Coach+🥊;Cyclist+🚴)](https://git.io/typing-svg)
 
 - 🇦🇺 I'm based in Melbourne, Australia
-- 💼 I'm currently working at [Education Advantage](https://eduadv.com.au/) as an Apple Service Leader
-- 💻 Checkout my new portfolio [Coming Soon](#)
+- 💻 Currently working on my portfolio website (Coming Soon!)
+- 🎓 Completed Front-End Development (60 Hours) at [General Assembly](https://generalassemb.ly/) (June 2023 - August 2023)
+- 📚 Currently progressing through [The Odin Project](https://www.theodinproject.com/), 75% complete with Fundamentals, currently focusing on JavaScript
+- 🤝 I'm open to collaborating on exciting projects as a Junior Front-End Developer and to learn new concepts
 - 📧 You can reach out to me via [Email](mailto:okky@me.com) / [LinkedIn](https://www.linkedin.com/in/okkystafford/)
-- 🤝 I'm open to collaborating on exciting projects as a Junior Front-End Developer and to learn new concepts.
+
+## Current Learning Focus 👨🏼‍💻
+
+<p align="left">
+ <img height="30" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML">
+ <img height="30" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS">
+ <img height="30" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript">
+ <img height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React">
+ <img height="30" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" title="Node.js">
+ <img height="30" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="SQL">
+</p>
 
 ## Activity Monitor
 
 <img src="https://myreadme.vercel.app/api/embed/ostafford?panels=userstatistics,toprepositories,toplanguages" alt="reimaginedreadme" />
 
-## Stack I'm currently learning 👨🏼‍💻
-
-<p align="left">
-    <img height="30" src="SVG/bootstrap-5-1.svg" title="Bootstrap">
-    <img height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React">
-    <img height="30" src="SVG/nodejs-1.svg" title="NodeJS">
-    <img height="30" src="SVG/mongodb-icon-2.svg" title="MongoDB">
-    <img height="30" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="tailwindcss">
-    <img height="30" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="next js">
-    <img height="30" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="AWS">
-</p>
-
 ## Stay connected 🔗
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/okkystafford" target="_blank">
-    <img height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/okkystafford/" target="_blank">
-    <img height="30" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter">
-  </a>
+ <a href="https://www.linkedin.com/in/okkystafford" target="_blank">
+ <img height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn">
+ </a>
+ <a href="https://twitter.com/okkystafford/" target="_blank">
+ <img height="30" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter">
+ </a>
 </p>
 
 ## Now playing 🎧
