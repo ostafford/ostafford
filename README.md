@@ -24,10 +24,6 @@ I'm a passionate aspiring Full-Stack Developer, currently dedicated to mastering
  <img height="30" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="SQL">
 </p>
 
-## Activity Monitor
-
-<img src="https://myreadme.vercel.app/api/embed/ostafford?panels=userstatistics,toprepositories,toplanguages" alt="reimaginedreadme" />
-
 ## Stay connected 🔗
 
 <p align="left">
