@@ -1,37 +1,70 @@
 # <img src="SVG/Banner-image-2.png" alt="banner image" />
 
-# Hi, I'm Okky. Nice to meet you! <img src="https://raw.githubusercontent.com/ooanishoo/ooanishoo/main/public/wave.gif" width="30px">
+<h1>Hey there! I'm Okky 👋🏼</h1>
 
-I'm a passionate aspiring Full-Stack Developer, currently dedicated to mastering front-end technologies. With 8+ years of experience in leadership and technical support, I'm now fully committed to a career in software engineering. I'm proactively learning and eager to apply my problem-solving skills and customer-centric mindset to create impactful, user-friendly software solutions.
+<h2>About Me</h2> 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=200&color=ab89d9&height=35&lines=Aspiring+Full-Stack+Developer+👨🏼‍💻;Former+Apple+Service+Leader+🧰;Muay+Thai+Coach+🥊;Cyclist+🚴)](https://git.io/typing-svg)
+I'm a passionate Software Engineering student at Holberton School, transforming my decade of technical leadership experience into a robust software development career. With a strong background in IT support and service management, I'm now diving deep into the world of software engineering, bringing a unique blend of technical problem-solving and interpersonal skills to my coding journey.
 
-- 🇦🇺 I'm based in Melbourne, Australia
-- 💻 Currently working on my portfolio website (Coming Soon!)
-- 🎓 Completed Front-End Development (60 Hours) at [General Assembly](https://generalassemb.ly/) (June 2023 - August 2023)
-- 📚 Currently progressing through [The Odin Project](https://www.theodinproject.com/), 75% complete with Fundamentals, currently focusing on JavaScript
-- 🤝 I'm open to collaborating on exciting projects as a Junior Front-End Developer and to learn new concepts
-- 📧 You can reach out to me via [Email](mailto:okky@me.com) / [LinkedIn](https://www.linkedin.com/in/okkystafford/)
+<h2>🚀 Project Workspace</h2>
 
-## Current Learning Focus 👨🏼‍💻
+<h3>📊 Project Progress Dashboard</h3>
 
-<p align="left">
- <img height="30" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML">
- <img height="30" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS">
- <img height="30" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript">
- <img height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React">
- <img height="30" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" title="Node.js">
- <img height="30" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="SQL">
+|Status|Project|Progress|Key Learnings|Next Milestones|
+|---|---|---|---|---|
+|🛠 In Progress|Bupget Financial Tracker|45%|• API Integration<br>• Financial Data Handling<br>• React State Management|1. Complete Authentication<br>2. Implement Secure Data Visualization|
+|🌱 Exploring|Capstone Project|15%|• Project Ideation<br>• Requirement Gathering<br>• Technology Research|1. Finalize Project Concept<br>2. Design Initial Architecture|
+|🔬 Learning Deep Dive|TypeScript Mastery|30%|• Static Typing<br>• Advanced Type Definitions<br>• React+TypeScript Integration|1. Complete Advanced Tutorials<br>2. Build TypeScript Mini-Project|
+
+<h4>Emoji Status Guide</h4>
+
+- 🆕 Not Started
+- 🌱 Exploring/Initial Stages
+- 🛠 Active Development
+- ✅ Completed
+- 🔬 Deep Learning Phase
+
+<h2>💻 Tech Stack & Skills</h2>
+
+<h3>🔥 Confidently Cruising</h3>
+
+<p align="left"> 
 </p>
 
-## Stay connected 🔗
+<h3>🌱 Growing Strong</h3>
 
 <p align="left">
- <a href="https://www.linkedin.com/in/okkystafford" target="_blank">
- <img height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn">
- </a>
-</p>
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python"> 
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript"> 
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React"> 
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML"> <img height="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS"> 
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript"> 
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="PostgreSQL"> 
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/docker-1.svg" title="Docker"> </p>
 
-## Now playing 🎧
+<h3>🌟 Foundational Knowledge</h3>
 
-[![Spotify](https://novatorem-spotify-git-main-ostaffords-projects.vercel.app/api/spotify)](https://open.spotify.com/user/2x1e9q689jbcbmyevfk1xibff?si=cff468cbc1db4c4d)
+<p align="left"> 
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" title="C Language"> </p>
+
+<h2>🌍 Where in the World?</h2>
+
+🇦🇺 Melbourne, Australia - Home of great coffee, killer views, and apparently, one aspiring software engineer!
+
+<h2>🤝 Let's Connect & Hang Out</h2>
+
+- 📧 [Slide into my inbox](mailto:okky@me.com)
+- 💼 [LinkedIn - Where the professional magic happens](https://www.linkedin.com/in/okkystafford/)
+- 🐱 [GitHub - My coding playground](https://github.com/ostafford)
+
+<h2>🎯 What Drives Me</h2>
+
+Look, I'm not here to save the world with code. I'm just trying to make things a bit easier, a bit smarter. My projects, like Bupget, are about solving real problems - the kind of stuff that makes daily life just a little less complicated.
+
+I believe in the power of small wins. Not grand, sweeping changes, but the tiny improvements that actually stick. Whether it's helping someone track their finances better or automate a frustrating process, I'm all about creating practical solutions that give people back their time and mental space.
+
+Software isn't magic. It's a tool. And I'm here to use that tool to help people do what they do, just a bit more efficiently.
+
+<h3>💡 My Coding Philosophy</h3>
+
+Code is more than just lines on a screen - it's a way to solve real-world problems, tell stories, and maybe have a bit of fun along the way. I'm not just learning to code; I'm learning to create, innovate, and hopefully make something that puts a smile on someone's face! 🤗
