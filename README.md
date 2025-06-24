@@ -13,7 +13,7 @@ I'm a passionate Software Engineering student at Holberton School, transforming 
 |Status|Project|Progress|Key Learnings|Next Milestones|
 |---|---|---|---|---|
 |🛠 In Progress|Bupget Financial Tracker|45%|• API Integration<br>• Financial Data Handling<br>• Testing|1. Complete Authentication<br>2. Implement Secure Data Visualization|
-|🌱 Exploring|Capstone Project|15%|• Project Ideation<br>• Requirement Gathering<br>• Technology Research|1. Finalize Project Concept<br>2. Design Initial Architecture|
+|🌱 In Progress|Capstone Project|15%|• Project Ideation<br>• Requirement Gathering<br>• Technology Research|1. Finalize Project Concept<br>2. Design Initial Architecture|
 |🔬 Learning Deep Dive|React|15%|• Static Typing<br>• Advanced Type Definitions<br>• React+TypeScript Integration|1. Components<br>2. Axios|
 
 <h4>Emoji Status Guide</h4>
