@@ -1,77 +1,143 @@
-# <img src="SVG/Banner-image-2.png" alt="banner image" />
+<div align="center">
+  <img src="SVG/Banner-image-2.png" alt="banner image" width="100%"/>
+  
+  # Hey there! I'm Okky 👋🏼
+  
+  *Software Engineering Student at Holberton School*  
+  *Graduating July 24th, 2024* 🎓
+  
+  [![Email](https://img.shields.io/badge/Email-okky@me.com-blue?style=flat-square&logo=gmail)](mailto:okky@me.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Okky_Stafford-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/okkystafford/)
+  [![GitHub](https://img.shields.io/badge/GitHub-ostafford-black?style=flat-square&logo=github)](https://github.com/ostafford)
+  
+  ---
+</div>
 
-<h1>Hey there! I'm Okky 👋🏼</h1>
+## 🚀 Current Project
 
-<h2>About Me</h2> 
+<div align="center">
 
-I'm a passionate Software Engineering student at Holberton School, transforming my decade of technical leadership experience into a robust software development career. With a strong background in IT support and service management, I'm now diving deep into the world of software engineering, bringing a unique blend of technical problem-solving and interpersonal skills to my coding journey.
+| Project | Status | Description | Tech Stack |
+|---------|--------|-------------|------------|
+| **[Portfolio Website](https://github.com/ostafford/portfolio)** | 🔄 In Development | Personal portfolio website built from scratch with responsive design | Ruby, Ruby on Rails, JavaScript, React/React Native |
 
-<h2>🚀 Project Workspace</h2>
+</div>
 
-<h3>📊 Project Progress Dashboard</h3>
+---
 
-|Status|Project|Progress|Key Learnings|Next Milestones|
-|---|---|---|---|---|
-|🛠 In Progress|Bupget Financial Tracker|45%|• API Integration<br>• Financial Data Handling<br>• Testing|1. Complete Authentication<br>2. Implement Secure Data Visualization|
-|🌱 In Progress|Capstone Project|15%|• Project Ideation<br>• Requirement Gathering<br>• Technology Research|1. Finalize Project Concept<br>2. Design Initial Architecture|
-|🔬 Learning Deep Dive|React|15%|• Static Typing<br>• Advanced Type Definitions<br>• React+TypeScript Integration|1. Components<br>2. Axios|
+## 💻 Skills & Technologies
 
-<h4>Emoji Status Guide</h4>
+### 🚀 New Learning
+<div align="center">
 
-- 🆕 Not Started
-- 🌱 Exploring/Initial Stages
-- 🛠 Active Development
-- ✅ Completed
-- 🔬 Deep Learning Phase
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/ruby.svg" title="Ruby"> 
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" title="Ruby on Rails"> 
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React"> 
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" title="React Native"> 
 
-<h2>💻 Tech Stack & Skills</h2>
+</div>
 
-<h3>🔥 Confidently Cruising</h3>
+### 🌱 Relearning
+<div align="center">
 
-<p align="left"> 
-<img height="40" src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" title="Bash"> 
-<img height="40" src="https://cdn.worldvectorlogo.com/logos/apple-14.svg" title="Apple"> 
-</p>
-
-<h3>🌱 Growing Strong</h3>
-
-<p align="left">
-<img height="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker">
 <img height="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python"> 
 <img height="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML">
 <img height="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS"> 
-<img height="40" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" title="Linux">
-</p>
-
-<h3>🌟 Foundational Knowledge</h3>
-
-<p align="left"> 
-<img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React"> 
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript">
 <img height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript"> 
 <img height="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="PostgreSQL"> 
-<img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript"> 
 <img height="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" title="C Language">
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker">
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" title="Bash"> 
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" title="Linux">
 <img height="40" src="https://cdn.worldvectorlogo.com/logos/vim.svg" title="Vim">
-</p>
 
-<h2>🌍 Where in the World?</h2>
+</div>
 
-🇦🇺 Melbourne, Australia - Home of great coffee, killer views, and apparently, one aspiring software engineer!
+### 🔥 Comfortable With
+<div align="center">
 
-<h2>🤝 Let's Connect & Hang Out</h2>
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/apple-14.svg" title="Apple">
 
-- 📧 [Slide into my inbox](mailto:okky@me.com)
-- 💼 [LinkedIn - Where the professional magic happens](https://www.linkedin.com/in/okkystafford/)
-- 🐱 [GitHub - My coding playground](https://github.com/ostafford)
+</div>
 
-<h2>🎯 What Drives Me</h2>
+---
 
-Look, I'm not here to save the world with code. I'm just trying to make things a bit easier, a bit smarter. My projects, like Bupget, are about solving real problems - the kind of stuff that makes daily life just a little less complicated.
+## 🛠️ Development Tools
 
-I believe in the power of small wins. Not grand, sweeping changes, but the tiny improvements that actually stick. Whether it's helping someone track their finances better or automate a frustrating process, I'm all about creating practical solutions that give people back their time and mental space.
+<div align="center">
 
-Software isn't magic. It's a tool. And I'm here to use that tool to help people do what they do, just a bit more efficiently.
+| Category | Tool |
+|----------|------|
+| **💻 IDE** | Cursor |
+| **🖥️ Terminal** | iTerm2 |
+| **🎨 Design** | Figma |
+| **🐳 Container** | Docker |
+| **📝 Version Control** | Git |
+| **🖥️ OS** | macOS |
 
-<h3>💡 My Coding Philosophy</h3>
+</div>
 
-Code is more than just lines on a screen - it's a way to solve real-world problems, tell stories, and maybe have a bit of fun along the way. I'm not just learning to code; I'm learning to create, innovate, and hopefully make something that puts a smile on someone's face! 🤗
+---
+
+## 🎯 Future Goals & Ambitions
+
+<div align="center">
+
+### 🏦 Target Company: **Up Banking**
+
+I'm passionate about joining the innovative team at Up Banking (affiliated with Ferocia). Their values and product align perfectly with my goals, and I'm excited to work with their tech stack of Ruby on Rails, JavaScript, and React Native.
+
+**Learning Path:**
+- **Ruby & Ruby on Rails** - Building robust web applications
+- **JavaScript** - Deepening my frontend expertise  
+- **Go** - Exploring systems programming
+- **React Native** - Mobile app development
+
+</div>
+
+---
+
+## 🌍 Location
+
+<div align="center">
+
+🇦🇺 **Melbourne, Australia** - Home of great coffee, killer views, and apparently, one aspiring software engineer!
+
+</div>
+
+---
+
+## 💡 My Approach
+
+<div align="center">
+
+> I believe in the power of small wins. Not grand, sweeping changes, but the tiny improvements that actually stick. Whether it's helping someone track their finances better or automate a frustrating process, I'm all about creating practical solutions that give people back their time and mental space.
+> 
+> Software isn't magic. It's a tool. And I'm here to use that tool to help people do what they do, just a bit more efficiently.
+
+</div>
+
+---
+
+## 🎓 A Note About My Learning Journey
+
+<div align="center">
+
+I "vibe coded" my way through my degree and learned the hard way that while AI tools can enhance productivity, it's crucial to understand what they can do for you rather than letting them do everything. Now I'm committed to writing everything from scratch - no shortcuts, just solid learning! 💪
+
+*Next up: Building a fully functional portfolio website using Ruby and Ruby on Rails - written entirely by me, no AI assistance.*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-okky@me.com-blue?style=for-the-badge&logo=gmail)](mailto:okky@me.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Okky_Stafford-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/okkystafford/)
+[![GitHub](https://img.shields.io/badge/GitHub-ostafford-black?style=for-the-badge&logo=github)](https://github.com/ostafford)
+
+</div>
