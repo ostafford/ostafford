@@ -3,8 +3,6 @@
   
   # Hey there! I'm Okky 👋🏼
   
-  *Software Engineering Student at Holberton School*  
-  *Graduating July 24th, 2024* 🎓
   
   [![Email](https://img.shields.io/badge/Email-okky@me.com-blue?style=flat-square&logo=gmail)](mailto:okky@me.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Okky_Stafford-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/okkystafford/)
@@ -84,9 +82,9 @@
 
 <div align="center">
 
-### 🏦 Target Company: **Up Banking**
+### 🏦 Target Company: ** Ferocia **
 
-I'm passionate about joining the innovative team at Up Banking (affiliated with Ferocia). Their values and product align perfectly with my goals, and I'm excited to work with their tech stack of Ruby on Rails, JavaScript, and React Native.
+I'm passionate about joining the innovative team at Ferocia. Their values and product align perfectly with my goals, and I'm excited to work with their tech stack of Ruby on Rails, JavaScript, and React Native.
 
 **Learning Path:**
 - **Ruby & Ruby on Rails** - Building robust web applications
