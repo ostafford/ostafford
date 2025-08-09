@@ -82,7 +82,7 @@
 
 <div align="center">
 
-### 🏦 Target Company: ** Ferocia **
+### 🏦 Target Company: **Ferocia**
 
 I'm passionate about joining the innovative team at Ferocia. Their values and product align perfectly with my goals, and I'm excited to work with their tech stack of Ruby on Rails, JavaScript, and React Native.
 
