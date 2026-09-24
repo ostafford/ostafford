@@ -67,9 +67,9 @@
 
 | Category | Tool |
 |----------|------|
-| **💻 IDE** | Cursor |
-| **🖥️ Terminal** | iTerm2 |
-| **🎨 Design** | Figma |
+| **💻 IDE** | VScode \ Claude Code |
+| **🖥️ Terminal** | Ghostty |
+| **🎨 Design** | Figma / tldraw |
 | **🐳 Container** | Docker |
 | **📝 Version Control** | Git |
 | **🖥️ OS** | macOS |
